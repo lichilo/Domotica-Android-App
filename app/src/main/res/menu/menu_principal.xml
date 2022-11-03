@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuConfiguraciones"
+        android:title="@string/configuraciones" />
+    <item
+        android:id="@+id/menuExtras"
+        android:title="@string/Extraconfigs" />
+    <item
+        android:id="@+id/menuSensores"
+        android:title="@string/sensores" />
+    <item
+        android:id="@+id/menuCamera"
+        android:title="@string/Camara" />
+</menu>

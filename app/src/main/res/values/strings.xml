@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name" translatable="false">finalTry2-3.8</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="configuraciones">Configuraciones</string>
+    <string name="ip">IP</string>
+    <string name="hostname">Hostname</string>
+    <string name="databasename">Database</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="guardar">Guardar</string>
+    <string name="todo">TODO</string>
+    <string name="ver_url">URL</string>
+    <string name="id">id</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="bool_1">Bool_1</string>
+    <string name="bool_2">Bool_2</string>
+    <string name="bool_3">Bool_3</string>
+    <string name="bool_5">Bool_5</string>
+    <string name="bool_4">Bool_4</string>
+    <string name="bool_6">Bool_6</string>
+    <string name="bool_7">Bool_7</string>
+    <string name="bool_8">Bool_8</string>
+    <string name="switchappbar">SwitchAppBar</string>
+    <string name="sensores">Sensores</string>
+    <string name="Sensores">Sensores</string>
+    <string name="Camara">Camara</string>
+    <string name="Float_1">Temperatura</string>
+    <string name="Float_2">Humedad</string>
+    <string name="Float_3">Sensacion termica</string>
+    <string name="nombres">Nombres</string>
+    <string name="nombres_de_las_variables">Nombres de las variables</string>
+    <string name="title_activity_camera">ActivityCamera</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Extraconfigs">Extra Configs</string>
+    <string name="valor_de_la_variable">valor de la variable</string>
+    <string name="float_4">Float_4</string>
+    <string name="float_5">Float_5</string>
+    <string name="floata_4">Float_4</string>
+    <string name="floata_5">Float_5</string>
+    <string name="estado">Estado</string>
+</resources>

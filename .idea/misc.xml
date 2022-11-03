@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ln_he/AndroidStudioProjects/finalTry22/app/src/main/res/layout-v26/activity_sensores.xml" value="0.33" />
+        <entry key="..\:/Users/ln_he/AndroidStudioProjects/finalTry22/app/src/main/res/layout/activity_camara.xml" value="0.25" />
+        <entry key="..\:/Users/ln_he/AndroidStudioProjects/finalTry22/app/src/main/res/layout/activity_camera.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ln_he/AndroidStudioProjects/finalTry22/app/src/main/res/layout/activity_configuraciones.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/ln_he/AndroidStudioProjects/finalTry22/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/ln_he/AndroidStudioProjects/finalTry22/app/src/main/res/layout/activity_menu_extras.xml" value="0.22" />
+        <entry key="..\:/Users/ln_he/AndroidStudioProjects/finalTry22/app/src/main/res/layout/activity_nombres.xml" value="0.22" />
+        <entry key="..\:/Users/ln_he/AndroidStudioProjects/finalTry22/app/src/main/res/layout/activity_sensores.xml" value="0.25" />
+        <entry key="..\:/Users/ln_he/AndroidStudioProjects/finalTry22/app/src/main/res/layout/content_activity_camera.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ln_he/AndroidStudioProjects/finalTry22/app/src/main/res/layout/itemlist.xml" value="0.33" />
+        <entry key="..\:/Users/ln_he/AndroidStudioProjects/finalTry22/app/src/main/res/layout/switch_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ln_he/AndroidStudioProjects/finalTry22/app/src/main/res/menu/activity_configuraciones.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/ln_he/AndroidStudioProjects/finalTry22/app/src/main/res/menu/menu_principal.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/ln_he/AndroidStudioProjects/finalTry22/app/src/main/res/mipmap-anydpi-v26/ic_launchers.xml" value="0.3675" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
